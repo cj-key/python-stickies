@@ -14,7 +14,7 @@ StickyNote is a simple, lightweight desktop application that allows users to jot
 ## Video Tutorial
 The following video explains the application in detail:
 
-[Tutorial Video](https://youtu.be/uDoxEZiohpI)
+[Click Me](https://cj-key.github.io/python-stickies/)
 
 ## Tech Stack
 - Python (Tkinter for GUI).
