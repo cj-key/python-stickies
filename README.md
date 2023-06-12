@@ -13,9 +13,9 @@
 StickyNote is a simple, lightweight desktop application that allows users to jot down notes and ideas quickly. Users can write text notes or draw sketches using this app. It resembles a physical sticky note in appearance and functionality.
 ## Video Tutorial
 The following video explains the application in detail:
-```html
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uDoxEZiohpI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-```
+
+[Tutorial Video](https://youtu.be/uDoxEZiohpI)
+
 ## Tech Stack
 - Python (Tkinter for GUI).
 - HTML (for presentation).
